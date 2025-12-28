@@ -75,7 +75,7 @@ Multilingual support
 👨‍💻 Developed By
 
 Kanika Chauhan
-B.Tech (Information Technology)
+B.Tech (Computer Science - AI)
 Passionate about Web Development and Interactive Applications
 
 📄 License
